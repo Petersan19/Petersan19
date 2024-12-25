@@ -1,7 +1,5 @@
 # 👨🏾‍💻 Pedro S. Miranda
 
-**`Desenvolvedora FullStack`**
-
 Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Grosso. Concluí o ensino médio no IFSULDEMINAS, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no mesmo instituto. Sou empenhado por  aprender novas tecnologias e compartilho meu conhecimento através do meu perfil no instagram "[petersan863](https://www.instagram.com/petersan863)".
 
 <p align="left">
@@ -22,7 +20,7 @@ Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Gros
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -30,7 +28,7 @@ Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Gros
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -38,7 +36,7 @@ Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Gros
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -46,7 +44,7 @@ Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Gros
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -55,7 +53,7 @@ Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Gros
     align="left"
     alt="Intellij"
     title="Intellij"
-    width="30px;"
+    width="40px;"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
 />
@@ -64,7 +62,7 @@ Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Gros
     align="left" 
     alt="Java"
     title="Java"
-    width="30px;"
+    width="40px;"
     style="padding-right: 10px;"       
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -73,7 +71,7 @@ Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Gros
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -81,7 +79,7 @@ Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Gros
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -89,7 +87,7 @@ Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Gros
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -98,7 +96,7 @@ Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Gros
     align="left"
     alt="MySQL"
     title="MySQL"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
@@ -107,7 +105,7 @@ Me chamo Pedro Santana Miranda, tenho 21 anos e sou natural de Cuiabá Mato Gros
     align="left"
     alt="VSCode"
     title="VSCode"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
